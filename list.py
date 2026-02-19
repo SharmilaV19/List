@@ -9,3 +9,4 @@ for num in numbers:
 print("List without duplicates:", unique)
 #list
 ##update
+#num
