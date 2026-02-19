@@ -7,3 +7,5 @@ for num in numbers:
         unique.append(num)
 
 print("List without duplicates:", unique)
+#list
+##update
